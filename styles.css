@@ -18,3 +18,8 @@
     border: 5px solid maroon;
     background-color: maroon;
 }
+
+#window-1 {
+    top: 150px;
+    left: 30px;
+}
