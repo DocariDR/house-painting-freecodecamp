@@ -5,6 +5,7 @@
     height: 400px;
     background-color: sandybrown;
     border: 10px solid maroon;
+    margin: 5vw auto;
 }
 
 #house > div {
