@@ -6,3 +6,7 @@
     background-color: sandybrown;
     border: 2px solid orange;
 }
+
+#house > div {
+    position: absolute;
+}
