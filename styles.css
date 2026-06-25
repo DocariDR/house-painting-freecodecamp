@@ -1,0 +1,8 @@
+
+#house {
+    position: relative;
+    width: 500;
+    height: 400px;
+    background-color: sandybrown;
+    border: 2px solid orange;
+}
