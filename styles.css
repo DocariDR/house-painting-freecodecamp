@@ -19,6 +19,7 @@
     height: 100px;
     background-color: #ccc;
     border: 5px solid black;
+    z-index: -1;
 }
 
 #roof {
