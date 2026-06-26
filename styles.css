@@ -12,6 +12,15 @@
     position: absolute;
 }
 
+#chimney {
+    top: -100px;
+    left: 360px;
+    width: 80px;
+    height: 100px;
+    background-color: #ccc;
+    border: 5px solid black;
+}
+
 #window-1, #window-2 {
     width: 80px;
     height: 100px;
