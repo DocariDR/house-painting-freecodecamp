@@ -47,3 +47,14 @@
     top: 150px;
     right: 30px;
 }
+
+#door {
+    position: absolute;
+    bottom: 0; 
+    left: 200px;
+    width: 110px;
+    height: 180px;
+    background-color: #e2e8f0;
+    border: 4px solid #753800;
+    border-bottom: none;
+}
