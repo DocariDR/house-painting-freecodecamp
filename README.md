@@ -27,4 +27,4 @@ Exercice CSS consistant à créer une illustration de maison entièrement constr
 ## Auteur
 
 **DocariDR**
-[GitHub](https://github.com/DocariDR) · [LinkedIn](https://linkedin.com/in/docaridr) · [X](https://x.com/docaridr) · [Bluesky](https://bsky.app/profile/docaridr.bsky.social)
+[GitHub](https://github.com/DocariDR) · [LinkedIn](www.linkedin.com/in/ricardo-dovonou) · [X](https://x.com/docaridr) · [Bluesky](https://bsky.app/profile/docaridr.bsky.social)
